@@ -1,4 +1,4 @@
-#🚀 Recommendations
+## 🚀 Recommendations
 
 ### 🌟 Capitalize on Seasonal Peaks
 - Focus marketing, inventory, and promotions around **May** and early-year trends.
