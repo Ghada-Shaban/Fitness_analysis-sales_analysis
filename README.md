@@ -1,4 +1,4 @@
-# 📈 Fitness analysis(sales analysis)
+# 📈 Fitness analysis(Sales analysis)
 A comprehensive dashboard analyzing revenue, profit, costs, returns, and customer behavior across products, regions,
 and time periods to identify trends, optimize strategies, and support data-driven business decisions.
 
