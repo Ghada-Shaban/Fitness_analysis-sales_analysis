@@ -1,4 +1,4 @@
-## 📈 Dashboard Insights
+## 📊 Dashboard Insights
 
 ### 💼 1. General Financial Overview
 - **Total Revenue:** $78.87M  
