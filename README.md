@@ -43,6 +43,7 @@ The company has experienced significant variations in revenue, profit, costs, an
 - Power Query
 - Power BI
 - Data Modeling
+- DAX
 ---
 
 
